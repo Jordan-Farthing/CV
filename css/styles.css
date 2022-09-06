@@ -44,6 +44,11 @@ hr {
   margin : 50px auto;
 }
 
+#hr-float{
+  margin-top:10rem;
+}
+
+
 a {
   color: #C21010;
   font-family: 'Montserrat', sans-serif;
